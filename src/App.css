@@ -34,7 +34,7 @@
 }
 
 .app_nav {
-  background-image: url(C:\Users\pradu\Desktop\KB\public\img2.jpg);
+  background-image: url("../public/img2.jpg");
   background-size: cover;
   background-position: center;
   background-clip: text;
