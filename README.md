@@ -1,0 +1,1 @@
+### server Developed a To-Do List web app incorporating features such as card editing, deletion, addition, and a user-friendly drag-and-drop functionality for seamless task organization. Leveraged React, HTML, CSS, and JavaScript to implement these functionalities, ensuring an optimal user interface design
